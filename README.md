@@ -2,6 +2,7 @@
 ## pointcloud_visualization
 
 * Interactive Jupyter Visualization
+    [Link to html](pointcloud_visualization/example.html)
 
     ![Visu1](pointcloud_visualization/example_visu_2.gif)
 
