@@ -10,3 +10,7 @@
 
     ![Visu2](pointcloud_visualization/example_visu.gif)
 
+* Here some other visus, which can be done:
+
+    ![Visu3](pointcloud_visualization/example_visu_3.gif)
+
