@@ -2,7 +2,7 @@
 ## pointcloud_visualization
 
 * Interactive Jupyter Visualization
-    [Link to html](pointcloud_visualization/example.html)
+    [Link to html](https://raw.githack.com/cruzvarona/Jupyter-Notebook/master/pointcloud_visualization/example.html)
 
     ![Visu1](pointcloud_visualization/example_visu_2.gif)
 
